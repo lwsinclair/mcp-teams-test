@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aech-ai-mcp-teams-test-badge.png)](https://mseep.ai/app/aech-ai-mcp-teams-test)
+
 # Teams Messenger MCP App
 
 This project implements a pure Model Context Protocol (MCP) server that bridges Microsoft Teams and MCP-compatible clients (LLMs, agentic frameworks, and a rich CLI MCP client). All features are exposed via MCP tools, resources, and events—no REST API endpoints.
